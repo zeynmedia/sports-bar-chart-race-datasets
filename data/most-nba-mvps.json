@@ -1,0 +1,105 @@
+{
+  "title": "Most NBA MVPs",
+  "subtitle": "Regular Season MVP",
+  "category": "Basketball",
+  "players": [
+    {
+      "id": "kar",
+      "name": "Kareem",
+      "color": "#ffffff"
+    },
+    {
+      "id": "mj",
+      "name": "Jordan",
+      "color": "#ffffff"
+    },
+    {
+      "id": "rus",
+      "name": "Russell",
+      "color": "#ffffff"
+    },
+    {
+      "id": "wil",
+      "name": "Chamberlain",
+      "color": "#ffffff"
+    },
+    {
+      "id": "lbj",
+      "name": "LeBron",
+      "color": "#ffffff"
+    }
+  ],
+  "steps": [
+    {
+      "label": "1950s",
+      "gained": {
+        "kar": 0,
+        "mj": 0,
+        "rus": 1,
+        "wil": 0,
+        "lbj": 0
+      }
+    },
+    {
+      "label": "1960s",
+      "gained": {
+        "kar": 0,
+        "mj": 0,
+        "rus": 4,
+        "wil": 4,
+        "lbj": 0
+      }
+    },
+    {
+      "label": "1970s",
+      "gained": {
+        "kar": 5,
+        "mj": 0,
+        "rus": 0,
+        "wil": 0,
+        "lbj": 0
+      }
+    },
+    {
+      "label": "1980s",
+      "gained": {
+        "kar": 1,
+        "mj": 1,
+        "rus": 0,
+        "wil": 0,
+        "lbj": 0
+      }
+    },
+    {
+      "label": "1990s",
+      "gained": {
+        "kar": 0,
+        "mj": 4,
+        "rus": 0,
+        "wil": 0,
+        "lbj": 0
+      }
+    },
+    {
+      "label": "2000s",
+      "gained": {
+        "kar": 0,
+        "mj": 0,
+        "rus": 0,
+        "wil": 0,
+        "lbj": 1
+      }
+    },
+    {
+      "label": "2010s",
+      "gained": {
+        "kar": 0,
+        "mj": 0,
+        "rus": 0,
+        "wil": 0,
+        "lbj": 3
+      }
+    }
+  ],
+  "template": "https://studio.zeynelerek.com/templates/most-nba-mvps"
+}

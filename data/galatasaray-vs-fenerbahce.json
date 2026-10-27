@@ -1,0 +1,76 @@
+{
+  "title": "Galatasaray vs Fenerbahçe",
+  "subtitle": "Süper Lig Titles",
+  "category": "Football",
+  "players": [
+    {
+      "id": "gs",
+      "name": "Galatasaray",
+      "color": "#a90432"
+    },
+    {
+      "id": "fb",
+      "name": "Fenerbahçe",
+      "color": "#002d72"
+    }
+  ],
+  "steps": [
+    {
+      "label": "1950s",
+      "gained": {
+        "gs": 0,
+        "fb": 1
+      }
+    },
+    {
+      "label": "1960s",
+      "gained": {
+        "gs": 3,
+        "fb": 4
+      }
+    },
+    {
+      "label": "1970s",
+      "gained": {
+        "gs": 3,
+        "fb": 4
+      }
+    },
+    {
+      "label": "1980s",
+      "gained": {
+        "gs": 2,
+        "fb": 3
+      }
+    },
+    {
+      "label": "1990s",
+      "gained": {
+        "gs": 5,
+        "fb": 1
+      }
+    },
+    {
+      "label": "2000s",
+      "gained": {
+        "gs": 4,
+        "fb": 4
+      }
+    },
+    {
+      "label": "2010s",
+      "gained": {
+        "gs": 5,
+        "fb": 2
+      }
+    },
+    {
+      "label": "2020s",
+      "gained": {
+        "gs": 3,
+        "fb": 0
+      }
+    }
+  ],
+  "template": "https://studio.zeynelerek.com/templates/galatasaray-vs-fenerbahce"
+}

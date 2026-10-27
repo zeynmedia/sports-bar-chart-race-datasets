@@ -1,0 +1,95 @@
+{
+  "title": "Copa Libertadores",
+  "subtitle": "Most Titles",
+  "category": "Football",
+  "players": [
+    {
+      "id": "ind",
+      "name": "Independiente",
+      "color": "#ffffff"
+    },
+    {
+      "id": "boc",
+      "name": "Boca",
+      "color": "#ffffff"
+    },
+    {
+      "id": "pen",
+      "name": "Peñarol",
+      "color": "#ffffff"
+    },
+    {
+      "id": "est",
+      "name": "Estudiantes",
+      "color": "#ffffff"
+    },
+    {
+      "id": "riv",
+      "name": "River",
+      "color": "#ffffff"
+    }
+  ],
+  "steps": [
+    {
+      "label": "1960s",
+      "gained": {
+        "ind": 2,
+        "boc": 0,
+        "pen": 3,
+        "est": 2,
+        "riv": 0
+      }
+    },
+    {
+      "label": "1970s",
+      "gained": {
+        "ind": 4,
+        "boc": 2,
+        "pen": 0,
+        "est": 1,
+        "riv": 0
+      }
+    },
+    {
+      "label": "1980s",
+      "gained": {
+        "ind": 1,
+        "boc": 0,
+        "pen": 2,
+        "est": 0,
+        "riv": 1
+      }
+    },
+    {
+      "label": "1990s",
+      "gained": {
+        "ind": 0,
+        "boc": 0,
+        "pen": 0,
+        "est": 0,
+        "riv": 1
+      }
+    },
+    {
+      "label": "2000s",
+      "gained": {
+        "ind": 0,
+        "boc": 4,
+        "pen": 0,
+        "est": 1,
+        "riv": 0
+      }
+    },
+    {
+      "label": "2010s",
+      "gained": {
+        "ind": 0,
+        "boc": 0,
+        "pen": 0,
+        "est": 0,
+        "riv": 2
+      }
+    }
+  ],
+  "template": "https://studio.zeynelerek.com/templates/most-libertadores-wins"
+}

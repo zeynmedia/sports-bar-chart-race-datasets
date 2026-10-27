@@ -1,0 +1,265 @@
+{
+  "title": "Jordan vs Kobe vs LeBron",
+  "subtitle": "NBA Championships",
+  "category": "Basketball",
+  "players": [
+    {
+      "id": "mj",
+      "name": "Jordan",
+      "color": "#e5484d"
+    },
+    {
+      "id": "kob",
+      "name": "Kobe",
+      "color": "#a855f7"
+    },
+    {
+      "id": "lbj",
+      "name": "LeBron",
+      "color": "#f5a524"
+    }
+  ],
+  "steps": [
+    {
+      "label": "1991",
+      "gained": {
+        "mj": 1,
+        "kob": 0,
+        "lbj": 0
+      }
+    },
+    {
+      "label": "1992",
+      "gained": {
+        "mj": 1,
+        "kob": 0,
+        "lbj": 0
+      }
+    },
+    {
+      "label": "1993",
+      "gained": {
+        "mj": 1,
+        "kob": 0,
+        "lbj": 0
+      }
+    },
+    {
+      "label": "1994",
+      "gained": {
+        "mj": 0,
+        "kob": 0,
+        "lbj": 0
+      }
+    },
+    {
+      "label": "1995",
+      "gained": {
+        "mj": 0,
+        "kob": 0,
+        "lbj": 0
+      }
+    },
+    {
+      "label": "1996",
+      "gained": {
+        "mj": 1,
+        "kob": 0,
+        "lbj": 0
+      }
+    },
+    {
+      "label": "1997",
+      "gained": {
+        "mj": 1,
+        "kob": 0,
+        "lbj": 0
+      }
+    },
+    {
+      "label": "1998",
+      "gained": {
+        "mj": 1,
+        "kob": 0,
+        "lbj": 0
+      }
+    },
+    {
+      "label": "1999",
+      "gained": {
+        "mj": 0,
+        "kob": 0,
+        "lbj": 0
+      }
+    },
+    {
+      "label": "2000",
+      "gained": {
+        "mj": 0,
+        "kob": 1,
+        "lbj": 0
+      }
+    },
+    {
+      "label": "2001",
+      "gained": {
+        "mj": 0,
+        "kob": 1,
+        "lbj": 0
+      }
+    },
+    {
+      "label": "2002",
+      "gained": {
+        "mj": 0,
+        "kob": 1,
+        "lbj": 0
+      }
+    },
+    {
+      "label": "2003",
+      "gained": {
+        "mj": 0,
+        "kob": 0,
+        "lbj": 0
+      }
+    },
+    {
+      "label": "2004",
+      "gained": {
+        "mj": 0,
+        "kob": 0,
+        "lbj": 0
+      }
+    },
+    {
+      "label": "2005",
+      "gained": {
+        "mj": 0,
+        "kob": 0,
+        "lbj": 0
+      }
+    },
+    {
+      "label": "2006",
+      "gained": {
+        "mj": 0,
+        "kob": 0,
+        "lbj": 0
+      }
+    },
+    {
+      "label": "2007",
+      "gained": {
+        "mj": 0,
+        "kob": 0,
+        "lbj": 0
+      }
+    },
+    {
+      "label": "2008",
+      "gained": {
+        "mj": 0,
+        "kob": 0,
+        "lbj": 0
+      }
+    },
+    {
+      "label": "2009",
+      "gained": {
+        "mj": 0,
+        "kob": 1,
+        "lbj": 0
+      }
+    },
+    {
+      "label": "2010",
+      "gained": {
+        "mj": 0,
+        "kob": 1,
+        "lbj": 0
+      }
+    },
+    {
+      "label": "2011",
+      "gained": {
+        "mj": 0,
+        "kob": 0,
+        "lbj": 0
+      }
+    },
+    {
+      "label": "2012",
+      "gained": {
+        "mj": 0,
+        "kob": 0,
+        "lbj": 1
+      }
+    },
+    {
+      "label": "2013",
+      "gained": {
+        "mj": 0,
+        "kob": 0,
+        "lbj": 1
+      }
+    },
+    {
+      "label": "2014",
+      "gained": {
+        "mj": 0,
+        "kob": 0,
+        "lbj": 0
+      }
+    },
+    {
+      "label": "2015",
+      "gained": {
+        "mj": 0,
+        "kob": 0,
+        "lbj": 0
+      }
+    },
+    {
+      "label": "2016",
+      "gained": {
+        "mj": 0,
+        "kob": 0,
+        "lbj": 1
+      }
+    },
+    {
+      "label": "2017",
+      "gained": {
+        "mj": 0,
+        "kob": 0,
+        "lbj": 0
+      }
+    },
+    {
+      "label": "2018",
+      "gained": {
+        "mj": 0,
+        "kob": 0,
+        "lbj": 0
+      }
+    },
+    {
+      "label": "2019",
+      "gained": {
+        "mj": 0,
+        "kob": 0,
+        "lbj": 0
+      }
+    },
+    {
+      "label": "2020",
+      "gained": {
+        "mj": 0,
+        "kob": 0,
+        "lbj": 1
+      }
+    }
+  ],
+  "template": "https://studio.zeynelerek.com/templates/jordan-kobe-lebron-rings"
+}

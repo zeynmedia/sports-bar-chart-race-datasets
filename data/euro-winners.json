@@ -1,0 +1,117 @@
+{
+  "title": "Euro Champions",
+  "subtitle": "All Winners",
+  "category": "Football",
+  "players": [
+    {
+      "id": "esp",
+      "name": "Spain",
+      "color": "#ffffff"
+    },
+    {
+      "id": "ger",
+      "name": "Germany",
+      "color": "#ffffff"
+    },
+    {
+      "id": "ita",
+      "name": "Italy",
+      "color": "#ffffff"
+    },
+    {
+      "id": "fra",
+      "name": "France",
+      "color": "#ffffff"
+    },
+    {
+      "id": "por",
+      "name": "Portugal",
+      "color": "#ffffff"
+    },
+    {
+      "id": "oth",
+      "name": "Others",
+      "color": "#ffffff"
+    }
+  ],
+  "steps": [
+    {
+      "label": "1960s",
+      "gained": {
+        "esp": 1,
+        "ger": 0,
+        "ita": 1,
+        "fra": 0,
+        "por": 0,
+        "oth": 1
+      }
+    },
+    {
+      "label": "1970s",
+      "gained": {
+        "esp": 0,
+        "ger": 1,
+        "ita": 0,
+        "fra": 0,
+        "por": 0,
+        "oth": 1
+      }
+    },
+    {
+      "label": "1980s",
+      "gained": {
+        "esp": 0,
+        "ger": 1,
+        "ita": 0,
+        "fra": 1,
+        "por": 0,
+        "oth": 1
+      }
+    },
+    {
+      "label": "1990s",
+      "gained": {
+        "esp": 0,
+        "ger": 1,
+        "ita": 0,
+        "fra": 0,
+        "por": 0,
+        "oth": 1
+      }
+    },
+    {
+      "label": "2000s",
+      "gained": {
+        "esp": 1,
+        "ger": 0,
+        "ita": 0,
+        "fra": 1,
+        "por": 0,
+        "oth": 1
+      }
+    },
+    {
+      "label": "2010s",
+      "gained": {
+        "esp": 1,
+        "ger": 0,
+        "ita": 0,
+        "fra": 0,
+        "por": 1,
+        "oth": 0
+      }
+    },
+    {
+      "label": "2020s",
+      "gained": {
+        "esp": 1,
+        "ger": 0,
+        "ita": 1,
+        "fra": 0,
+        "por": 0,
+        "oth": 0
+      }
+    }
+  ],
+  "template": "https://studio.zeynelerek.com/templates/euro-winners"
+}

@@ -1,0 +1,249 @@
+{
+  "title": "World Cup",
+  "subtitle": "All-Time Top Scorers",
+  "category": "Football",
+  "players": [
+    {
+      "id": "klo",
+      "name": "Klose",
+      "color": "#e5e7eb"
+    },
+    {
+      "id": "r9",
+      "name": "Ronaldo",
+      "color": "#facc15"
+    },
+    {
+      "id": "gmu",
+      "name": "G. Müller",
+      "color": "#9ca3af"
+    },
+    {
+      "id": "mes",
+      "name": "Messi",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "fon",
+      "name": "Fontaine",
+      "color": "#1d4ed8"
+    },
+    {
+      "id": "pel",
+      "name": "Pelé",
+      "color": "#16a34a"
+    },
+    {
+      "id": "mba",
+      "name": "Mbappé",
+      "color": "#2563eb"
+    }
+  ],
+  "steps": [
+    {
+      "label": "1958",
+      "gained": {
+        "klo": 0,
+        "r9": 0,
+        "gmu": 0,
+        "mes": 0,
+        "fon": 13,
+        "pel": 6,
+        "mba": 0
+      }
+    },
+    {
+      "label": "1962",
+      "gained": {
+        "klo": 0,
+        "r9": 0,
+        "gmu": 0,
+        "mes": 0,
+        "fon": 0,
+        "pel": 1,
+        "mba": 0
+      }
+    },
+    {
+      "label": "1966",
+      "gained": {
+        "klo": 0,
+        "r9": 0,
+        "gmu": 0,
+        "mes": 0,
+        "fon": 0,
+        "pel": 1,
+        "mba": 0
+      }
+    },
+    {
+      "label": "1970",
+      "gained": {
+        "klo": 0,
+        "r9": 0,
+        "gmu": 10,
+        "mes": 0,
+        "fon": 0,
+        "pel": 4,
+        "mba": 0
+      }
+    },
+    {
+      "label": "1974",
+      "gained": {
+        "klo": 0,
+        "r9": 0,
+        "gmu": 4,
+        "mes": 0,
+        "fon": 0,
+        "pel": 0,
+        "mba": 0
+      }
+    },
+    {
+      "label": "1978",
+      "gained": {
+        "klo": 0,
+        "r9": 0,
+        "gmu": 0,
+        "mes": 0,
+        "fon": 0,
+        "pel": 0,
+        "mba": 0
+      }
+    },
+    {
+      "label": "1982",
+      "gained": {
+        "klo": 0,
+        "r9": 0,
+        "gmu": 0,
+        "mes": 0,
+        "fon": 0,
+        "pel": 0,
+        "mba": 0
+      }
+    },
+    {
+      "label": "1986",
+      "gained": {
+        "klo": 0,
+        "r9": 0,
+        "gmu": 0,
+        "mes": 0,
+        "fon": 0,
+        "pel": 0,
+        "mba": 0
+      }
+    },
+    {
+      "label": "1990",
+      "gained": {
+        "klo": 0,
+        "r9": 0,
+        "gmu": 0,
+        "mes": 0,
+        "fon": 0,
+        "pel": 0,
+        "mba": 0
+      }
+    },
+    {
+      "label": "1994",
+      "gained": {
+        "klo": 0,
+        "r9": 0,
+        "gmu": 0,
+        "mes": 0,
+        "fon": 0,
+        "pel": 0,
+        "mba": 0
+      }
+    },
+    {
+      "label": "1998",
+      "gained": {
+        "klo": 0,
+        "r9": 4,
+        "gmu": 0,
+        "mes": 0,
+        "fon": 0,
+        "pel": 0,
+        "mba": 0
+      }
+    },
+    {
+      "label": "2002",
+      "gained": {
+        "klo": 5,
+        "r9": 8,
+        "gmu": 0,
+        "mes": 0,
+        "fon": 0,
+        "pel": 0,
+        "mba": 0
+      }
+    },
+    {
+      "label": "2006",
+      "gained": {
+        "klo": 5,
+        "r9": 3,
+        "gmu": 0,
+        "mes": 1,
+        "fon": 0,
+        "pel": 0,
+        "mba": 0
+      }
+    },
+    {
+      "label": "2010",
+      "gained": {
+        "klo": 4,
+        "r9": 0,
+        "gmu": 0,
+        "mes": 0,
+        "fon": 0,
+        "pel": 0,
+        "mba": 0
+      }
+    },
+    {
+      "label": "2014",
+      "gained": {
+        "klo": 2,
+        "r9": 0,
+        "gmu": 0,
+        "mes": 4,
+        "fon": 0,
+        "pel": 0,
+        "mba": 0
+      }
+    },
+    {
+      "label": "2018",
+      "gained": {
+        "klo": 0,
+        "r9": 0,
+        "gmu": 0,
+        "mes": 1,
+        "fon": 0,
+        "pel": 0,
+        "mba": 4
+      }
+    },
+    {
+      "label": "2022",
+      "gained": {
+        "klo": 0,
+        "r9": 0,
+        "gmu": 0,
+        "mes": 7,
+        "fon": 0,
+        "pel": 0,
+        "mba": 8
+      }
+    }
+  ],
+  "template": "https://studio.zeynelerek.com/templates/world-cup-top-scorers"
+}

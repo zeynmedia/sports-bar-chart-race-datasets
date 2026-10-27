@@ -1,0 +1,193 @@
+{
+  "title": "Djokovic vs Nadal vs Federer",
+  "subtitle": "Grand Slam Titles",
+  "category": "Tennis",
+  "players": [
+    {
+      "id": "djo",
+      "name": "Djokovic",
+      "color": "#e5484d"
+    },
+    {
+      "id": "nad",
+      "name": "Nadal",
+      "color": "#f5a524"
+    },
+    {
+      "id": "fed",
+      "name": "Federer",
+      "color": "#7cc0f5"
+    }
+  ],
+  "steps": [
+    {
+      "label": "2003",
+      "gained": {
+        "djo": 0,
+        "nad": 0,
+        "fed": 1
+      }
+    },
+    {
+      "label": "2004",
+      "gained": {
+        "djo": 0,
+        "nad": 0,
+        "fed": 3
+      }
+    },
+    {
+      "label": "2005",
+      "gained": {
+        "djo": 0,
+        "nad": 1,
+        "fed": 2
+      }
+    },
+    {
+      "label": "2006",
+      "gained": {
+        "djo": 0,
+        "nad": 1,
+        "fed": 3
+      }
+    },
+    {
+      "label": "2007",
+      "gained": {
+        "djo": 0,
+        "nad": 1,
+        "fed": 3
+      }
+    },
+    {
+      "label": "2008",
+      "gained": {
+        "djo": 1,
+        "nad": 2,
+        "fed": 1
+      }
+    },
+    {
+      "label": "2009",
+      "gained": {
+        "djo": 0,
+        "nad": 1,
+        "fed": 2
+      }
+    },
+    {
+      "label": "2010",
+      "gained": {
+        "djo": 0,
+        "nad": 3,
+        "fed": 1
+      }
+    },
+    {
+      "label": "2011",
+      "gained": {
+        "djo": 3,
+        "nad": 1,
+        "fed": 0
+      }
+    },
+    {
+      "label": "2012",
+      "gained": {
+        "djo": 1,
+        "nad": 1,
+        "fed": 1
+      }
+    },
+    {
+      "label": "2013",
+      "gained": {
+        "djo": 1,
+        "nad": 2,
+        "fed": 0
+      }
+    },
+    {
+      "label": "2014",
+      "gained": {
+        "djo": 1,
+        "nad": 1,
+        "fed": 0
+      }
+    },
+    {
+      "label": "2015",
+      "gained": {
+        "djo": 3,
+        "nad": 0,
+        "fed": 0
+      }
+    },
+    {
+      "label": "2016",
+      "gained": {
+        "djo": 2,
+        "nad": 0,
+        "fed": 0
+      }
+    },
+    {
+      "label": "2017",
+      "gained": {
+        "djo": 0,
+        "nad": 2,
+        "fed": 2
+      }
+    },
+    {
+      "label": "2018",
+      "gained": {
+        "djo": 2,
+        "nad": 1,
+        "fed": 1
+      }
+    },
+    {
+      "label": "2019",
+      "gained": {
+        "djo": 2,
+        "nad": 2,
+        "fed": 0
+      }
+    },
+    {
+      "label": "2020",
+      "gained": {
+        "djo": 1,
+        "nad": 1,
+        "fed": 0
+      }
+    },
+    {
+      "label": "2021",
+      "gained": {
+        "djo": 3,
+        "nad": 0,
+        "fed": 0
+      }
+    },
+    {
+      "label": "2022",
+      "gained": {
+        "djo": 1,
+        "nad": 2,
+        "fed": 0
+      }
+    },
+    {
+      "label": "2023",
+      "gained": {
+        "djo": 3,
+        "nad": 0,
+        "fed": 0
+      }
+    }
+  ],
+  "template": "https://studio.zeynelerek.com/templates/big3-grand-slams"
+}

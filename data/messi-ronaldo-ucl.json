@@ -1,0 +1,111 @@
+{
+  "title": "Ronaldo vs Messi",
+  "subtitle": "Champions League Titles",
+  "category": "Football",
+  "players": [
+    {
+      "id": "ron",
+      "name": "Ronaldo",
+      "color": "#dc2626"
+    },
+    {
+      "id": "mes",
+      "name": "Messi",
+      "color": "#60a5fa"
+    }
+  ],
+  "steps": [
+    {
+      "label": "2006",
+      "gained": {
+        "ron": 0,
+        "mes": 1
+      }
+    },
+    {
+      "label": "2007",
+      "gained": {
+        "ron": 0,
+        "mes": 0
+      }
+    },
+    {
+      "label": "2008",
+      "gained": {
+        "ron": 1,
+        "mes": 0
+      }
+    },
+    {
+      "label": "2009",
+      "gained": {
+        "ron": 0,
+        "mes": 1
+      }
+    },
+    {
+      "label": "2010",
+      "gained": {
+        "ron": 0,
+        "mes": 0
+      }
+    },
+    {
+      "label": "2011",
+      "gained": {
+        "ron": 0,
+        "mes": 1
+      }
+    },
+    {
+      "label": "2012",
+      "gained": {
+        "ron": 0,
+        "mes": 0
+      }
+    },
+    {
+      "label": "2013",
+      "gained": {
+        "ron": 0,
+        "mes": 0
+      }
+    },
+    {
+      "label": "2014",
+      "gained": {
+        "ron": 1,
+        "mes": 0
+      }
+    },
+    {
+      "label": "2015",
+      "gained": {
+        "ron": 0,
+        "mes": 1
+      }
+    },
+    {
+      "label": "2016",
+      "gained": {
+        "ron": 1,
+        "mes": 0
+      }
+    },
+    {
+      "label": "2017",
+      "gained": {
+        "ron": 1,
+        "mes": 0
+      }
+    },
+    {
+      "label": "2018",
+      "gained": {
+        "ron": 1,
+        "mes": 0
+      }
+    }
+  ],
+  "template": "https://studio.zeynelerek.com/templates/messi-ronaldo-ucl"
+}

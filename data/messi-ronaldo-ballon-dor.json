@@ -1,0 +1,125 @@
+{
+  "title": "Messi vs Ronaldo",
+  "subtitle": "Ballon d'Or Wins",
+  "category": "Football",
+  "players": [
+    {
+      "id": "mes",
+      "name": "Messi",
+      "color": "#60a5fa"
+    },
+    {
+      "id": "ron",
+      "name": "Ronaldo",
+      "color": "#e5484d"
+    }
+  ],
+  "steps": [
+    {
+      "label": "2008",
+      "gained": {
+        "mes": 0,
+        "ron": 1
+      }
+    },
+    {
+      "label": "2009",
+      "gained": {
+        "mes": 1,
+        "ron": 0
+      }
+    },
+    {
+      "label": "2010",
+      "gained": {
+        "mes": 1,
+        "ron": 0
+      }
+    },
+    {
+      "label": "2011",
+      "gained": {
+        "mes": 1,
+        "ron": 0
+      }
+    },
+    {
+      "label": "2012",
+      "gained": {
+        "mes": 1,
+        "ron": 0
+      }
+    },
+    {
+      "label": "2013",
+      "gained": {
+        "mes": 0,
+        "ron": 1
+      }
+    },
+    {
+      "label": "2014",
+      "gained": {
+        "mes": 0,
+        "ron": 1
+      }
+    },
+    {
+      "label": "2015",
+      "gained": {
+        "mes": 1,
+        "ron": 0
+      }
+    },
+    {
+      "label": "2016",
+      "gained": {
+        "mes": 0,
+        "ron": 1
+      }
+    },
+    {
+      "label": "2017",
+      "gained": {
+        "mes": 0,
+        "ron": 1
+      }
+    },
+    {
+      "label": "2018",
+      "gained": {
+        "mes": 0,
+        "ron": 0
+      }
+    },
+    {
+      "label": "2019",
+      "gained": {
+        "mes": 1,
+        "ron": 0
+      }
+    },
+    {
+      "label": "2021",
+      "gained": {
+        "mes": 1,
+        "ron": 0
+      }
+    },
+    {
+      "label": "2022",
+      "gained": {
+        "mes": 0,
+        "ron": 0
+      }
+    },
+    {
+      "label": "2023",
+      "gained": {
+        "mes": 1,
+        "ron": 0
+      }
+    }
+  ],
+  "template": "https://studio.zeynelerek.com/templates/messi-ronaldo-ballon-dor"
+}

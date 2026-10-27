@@ -1,0 +1,228 @@
+{
+  "title": "Most UCL Titles",
+  "subtitle": "As A Coach",
+  "category": "Football",
+  "players": [
+    {
+      "id": "anc",
+      "name": "Ancelotti",
+      "color": "#1e3a8a"
+    },
+    {
+      "id": "pep",
+      "name": "Guardiola",
+      "color": "#38bdf8"
+    },
+    {
+      "id": "zid",
+      "name": "Zidane",
+      "color": "#f8fafc"
+    },
+    {
+      "id": "mou",
+      "name": "Mourinho",
+      "color": "#0f172a"
+    }
+  ],
+  "steps": [
+    {
+      "label": "2003",
+      "gained": {
+        "anc": 1,
+        "pep": 0,
+        "zid": 0,
+        "mou": 0
+      }
+    },
+    {
+      "label": "2004",
+      "gained": {
+        "anc": 0,
+        "pep": 0,
+        "zid": 0,
+        "mou": 1
+      }
+    },
+    {
+      "label": "2005",
+      "gained": {
+        "anc": 0,
+        "pep": 0,
+        "zid": 0,
+        "mou": 0
+      }
+    },
+    {
+      "label": "2006",
+      "gained": {
+        "anc": 0,
+        "pep": 0,
+        "zid": 0,
+        "mou": 0
+      }
+    },
+    {
+      "label": "2007",
+      "gained": {
+        "anc": 1,
+        "pep": 0,
+        "zid": 0,
+        "mou": 0
+      }
+    },
+    {
+      "label": "2008",
+      "gained": {
+        "anc": 0,
+        "pep": 0,
+        "zid": 0,
+        "mou": 0
+      }
+    },
+    {
+      "label": "2009",
+      "gained": {
+        "anc": 0,
+        "pep": 1,
+        "zid": 0,
+        "mou": 0
+      }
+    },
+    {
+      "label": "2010",
+      "gained": {
+        "anc": 0,
+        "pep": 0,
+        "zid": 0,
+        "mou": 1
+      }
+    },
+    {
+      "label": "2011",
+      "gained": {
+        "anc": 0,
+        "pep": 1,
+        "zid": 0,
+        "mou": 0
+      }
+    },
+    {
+      "label": "2012",
+      "gained": {
+        "anc": 0,
+        "pep": 0,
+        "zid": 0,
+        "mou": 0
+      }
+    },
+    {
+      "label": "2013",
+      "gained": {
+        "anc": 0,
+        "pep": 0,
+        "zid": 0,
+        "mou": 0
+      }
+    },
+    {
+      "label": "2014",
+      "gained": {
+        "anc": 1,
+        "pep": 0,
+        "zid": 0,
+        "mou": 0
+      }
+    },
+    {
+      "label": "2015",
+      "gained": {
+        "anc": 0,
+        "pep": 0,
+        "zid": 0,
+        "mou": 0
+      }
+    },
+    {
+      "label": "2016",
+      "gained": {
+        "anc": 0,
+        "pep": 0,
+        "zid": 1,
+        "mou": 0
+      }
+    },
+    {
+      "label": "2017",
+      "gained": {
+        "anc": 0,
+        "pep": 0,
+        "zid": 1,
+        "mou": 0
+      }
+    },
+    {
+      "label": "2018",
+      "gained": {
+        "anc": 0,
+        "pep": 0,
+        "zid": 1,
+        "mou": 0
+      }
+    },
+    {
+      "label": "2019",
+      "gained": {
+        "anc": 0,
+        "pep": 0,
+        "zid": 0,
+        "mou": 0
+      }
+    },
+    {
+      "label": "2020",
+      "gained": {
+        "anc": 0,
+        "pep": 0,
+        "zid": 0,
+        "mou": 0
+      }
+    },
+    {
+      "label": "2021",
+      "gained": {
+        "anc": 0,
+        "pep": 0,
+        "zid": 0,
+        "mou": 0
+      }
+    },
+    {
+      "label": "2022",
+      "gained": {
+        "anc": 1,
+        "pep": 0,
+        "zid": 0,
+        "mou": 0
+      }
+    },
+    {
+      "label": "2023",
+      "gained": {
+        "anc": 0,
+        "pep": 1,
+        "zid": 0,
+        "mou": 0
+      }
+    },
+    {
+      "label": "2024",
+      "gained": {
+        "anc": 1,
+        "pep": 0,
+        "zid": 0,
+        "mou": 0
+      }
+    }
+  ],
+  "template": "https://studio.zeynelerek.com/templates/coaches-ucl-titles"
+}

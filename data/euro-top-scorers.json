@@ -1,0 +1,145 @@
+{
+  "title": "EURO",
+  "subtitle": "All-Time Top Scorers",
+  "category": "Football",
+  "players": [
+    {
+      "id": "ron",
+      "name": "Ronaldo",
+      "color": "#dc2626"
+    },
+    {
+      "id": "pla",
+      "name": "Platini",
+      "color": "#1d4ed8"
+    },
+    {
+      "id": "gri",
+      "name": "Griezmann",
+      "color": "#3b82f6"
+    },
+    {
+      "id": "she",
+      "name": "Shearer",
+      "color": "#e5e7eb"
+    },
+    {
+      "id": "kan",
+      "name": "Kane",
+      "color": "#f8fafc"
+    }
+  ],
+  "steps": [
+    {
+      "label": "1984",
+      "gained": {
+        "ron": 0,
+        "pla": 9,
+        "gri": 0,
+        "she": 0,
+        "kan": 0
+      }
+    },
+    {
+      "label": "1988",
+      "gained": {
+        "ron": 0,
+        "pla": 0,
+        "gri": 0,
+        "she": 0,
+        "kan": 0
+      }
+    },
+    {
+      "label": "1992",
+      "gained": {
+        "ron": 0,
+        "pla": 0,
+        "gri": 0,
+        "she": 0,
+        "kan": 0
+      }
+    },
+    {
+      "label": "1996",
+      "gained": {
+        "ron": 0,
+        "pla": 0,
+        "gri": 0,
+        "she": 5,
+        "kan": 0
+      }
+    },
+    {
+      "label": "2000",
+      "gained": {
+        "ron": 0,
+        "pla": 0,
+        "gri": 0,
+        "she": 2,
+        "kan": 0
+      }
+    },
+    {
+      "label": "2004",
+      "gained": {
+        "ron": 2,
+        "pla": 0,
+        "gri": 0,
+        "she": 0,
+        "kan": 0
+      }
+    },
+    {
+      "label": "2008",
+      "gained": {
+        "ron": 1,
+        "pla": 0,
+        "gri": 0,
+        "she": 0,
+        "kan": 0
+      }
+    },
+    {
+      "label": "2012",
+      "gained": {
+        "ron": 3,
+        "pla": 0,
+        "gri": 0,
+        "she": 0,
+        "kan": 0
+      }
+    },
+    {
+      "label": "2016",
+      "gained": {
+        "ron": 3,
+        "pla": 0,
+        "gri": 6,
+        "she": 0,
+        "kan": 0
+      }
+    },
+    {
+      "label": "2021",
+      "gained": {
+        "ron": 5,
+        "pla": 0,
+        "gri": 1,
+        "she": 0,
+        "kan": 4
+      }
+    },
+    {
+      "label": "2024",
+      "gained": {
+        "ron": 0,
+        "pla": 0,
+        "gri": 0,
+        "she": 0,
+        "kan": 3
+      }
+    }
+  ],
+  "template": "https://studio.zeynelerek.com/templates/euro-top-scorers"
+}

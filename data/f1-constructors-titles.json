@@ -1,0 +1,117 @@
+{
+  "title": "F1 Constructors",
+  "subtitle": "World Championships",
+  "category": "Motorsport",
+  "players": [
+    {
+      "id": "fer",
+      "name": "Ferrari",
+      "color": "#ffffff"
+    },
+    {
+      "id": "wil",
+      "name": "Williams",
+      "color": "#ffffff"
+    },
+    {
+      "id": "mcl",
+      "name": "McLaren",
+      "color": "#ffffff"
+    },
+    {
+      "id": "mer",
+      "name": "Mercedes",
+      "color": "#ffffff"
+    },
+    {
+      "id": "lot",
+      "name": "Lotus",
+      "color": "#ffffff"
+    },
+    {
+      "id": "rbr",
+      "name": "Red Bull",
+      "color": "#ffffff"
+    }
+  ],
+  "steps": [
+    {
+      "label": "1960s",
+      "gained": {
+        "fer": 2,
+        "wil": 0,
+        "mcl": 0,
+        "mer": 0,
+        "lot": 3,
+        "rbr": 0
+      }
+    },
+    {
+      "label": "1970s",
+      "gained": {
+        "fer": 4,
+        "wil": 0,
+        "mcl": 1,
+        "mer": 0,
+        "lot": 4,
+        "rbr": 0
+      }
+    },
+    {
+      "label": "1980s",
+      "gained": {
+        "fer": 2,
+        "wil": 4,
+        "mcl": 4,
+        "mer": 0,
+        "lot": 0,
+        "rbr": 0
+      }
+    },
+    {
+      "label": "1990s",
+      "gained": {
+        "fer": 1,
+        "wil": 5,
+        "mcl": 3,
+        "mer": 0,
+        "lot": 0,
+        "rbr": 0
+      }
+    },
+    {
+      "label": "2000s",
+      "gained": {
+        "fer": 7,
+        "wil": 0,
+        "mcl": 0,
+        "mer": 0,
+        "lot": 0,
+        "rbr": 0
+      }
+    },
+    {
+      "label": "2010s",
+      "gained": {
+        "fer": 0,
+        "wil": 0,
+        "mcl": 0,
+        "mer": 6,
+        "lot": 0,
+        "rbr": 4
+      }
+    },
+    {
+      "label": "2020s",
+      "gained": {
+        "fer": 0,
+        "wil": 0,
+        "mcl": 1,
+        "mer": 2,
+        "lot": 0,
+        "rbr": 2
+      }
+    }
+  ],
+  "template": "https://studio.zeynelerek.com/templates/f1-constructors-titles"
+}
